@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio: Data Science & Data Analytics
 
 ---
 
-### Category Name 1 
+## Data Science 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,9 +17,11 @@
 
 ---
 
-### Category Name 2
+## Data Analytics 
+### Exploring factors influencing Youtube View
+<div style = "text-align: justify"> Performed data cleaning, modelling (multivariate regression, OLS), and visualization on a 44,000+ records Youtube dataset from Kaggle using Python </div>
+[![View Presentation](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)]
 
-- [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
